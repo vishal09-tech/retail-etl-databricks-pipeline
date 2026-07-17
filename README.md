@@ -38,8 +38,8 @@ daily.
 ![Analytics](screenshots/analytics.png)
 
 ### Jobs & Scheduling
-![Workflow](screenshots/workflow_job_run.png)
-![Workflow](screenshots/workflow_schedule.png)
+![Workflow](screenshots/workflow_job_run.png.png)
+![Workflow](screenshots/workflow_schedule.png.png)
 
 ## Dataset
 Retail transactions dataset (~1M rows), 2020-2024.
