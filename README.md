@@ -42,4 +42,10 @@ daily.
 ![Workflow](screenshots/workflow_schedule.png.png)
 
 ## Dataset
-Retail transactions dataset (~1M rows), 2020-2024.
+[Retail Transactions Dataset](https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset) 
+(~1M rows) from Kaggle — contains transaction, customer, product, payment, 
+city, store type, discount, customer category, season, and promotion fields.
+
+**Note:** The raw dataset is not included in this repo due to size. Download 
+it from the link above and place it in your Databricks Volume path 
+(`/Volumes/workspace/default/retail_data/`) before running the notebooks.
