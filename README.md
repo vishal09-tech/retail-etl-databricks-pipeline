@@ -23,5 +23,22 @@ PySpark, SQL, Delta Lake, Databricks Workflows, Databricks Auto Loader
 4-task Databricks Workflow job, chained with dependencies, scheduled 
 daily.
 
+## Project Screenshots
+
+### Bronze Layer
+![Bronze Layer](screenshots/bronze_layer.png)
+
+### Silver Layer
+![Silver Layer](screenshots/silver_layer.png)
+
+### Gold Layer
+![Gold Layer](screenshots/gold_layer.png)
+
+### Analytics
+![Analytics](screenshots/analytics.png)
+
+### Workflow
+![Workflow](screenshots/workflow.png)
+
 ## Dataset
 Retail transactions dataset (~1M rows), 2020-2024.
